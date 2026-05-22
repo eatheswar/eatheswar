@@ -1,4 +1,4 @@
-# Hi, I'm Eathesh
+# Hi, I'm Eatheswar
 
 Electronics & VLSI Engineering Student focused on Digital Design and ASIC Flow.
 
