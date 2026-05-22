@@ -1,14 +1,14 @@
 # Hi, I'm Eatheswar
 
-Electronics & VLSI Engineering Student focused on Digital Design and ASIC Flow.
+Electronics & VLSI Engineering Student focused on Digital ASIC Design and RTL Development.
 
 ---
 
-## Areas of Interest
+## Focus Areas
 - RTL Design
 - Verilog/SystemVerilog
+- Digital Design
 - ASIC Design Flow
-- Digital Electronics
 - Verification Basics
 - Open-Source Silicon
 
