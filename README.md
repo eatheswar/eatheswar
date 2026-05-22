@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Eathesh
 
-<!--
-**eatheswar/eatheswar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & VLSI Engineering Student focused on Digital Design and ASIC Flow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- RTL Design
+- Verilog/SystemVerilog
+- ASIC Design Flow
+- Digital Electronics
+- Verification Basics
+- Open-Source Silicon
+
+---
+
+## Currently Learning
+- Verilog RTL Design
+- FSM Design
+- OpenLane/OpenROAD
+- Linux & Git
+- Digital ASIC Flow
+
+---
+
+## Current Goal
+Building practical RTL-to-GDSII projects and preparing for VLSI placements.
+
+---
+
+## Planned Projects
+- ALU Design
+- UART in Verilog
+- FIFO Design
+- FSM-Based Designs
+- RTL-to-GDSII Flow Projects
